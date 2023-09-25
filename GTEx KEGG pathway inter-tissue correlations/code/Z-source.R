@@ -1,0 +1,15 @@
+library(stats)
+library(grid)
+library(gridExtra)
+library(RColorBrewer)
+library(WGCNA)
+library(MetBrewer)
+library(reshape2)
+library(pheatmap)
+library(ggplot2)
+library(forcats)
+library(dplyr)
+library(here)
+allowWGCNAThreads()
+
+
